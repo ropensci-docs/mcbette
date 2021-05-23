@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "e38aec2e31b7b36f54204030c3ea7ab059f76f2b",
+    "author": "richelbilderbeek <richel@richelbilderbeek.nl>",
+    "time": "2021-05-23 14:44:36",
+    "files": 1,
+    "merge": false,
+    "message": "Test on Linux, Mac, Windows\n"
+  },
+  "remote": "https://github.com/ropensci/mcbette",
+  "pkg": "mcbette"
+}
