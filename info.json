@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "7d8139ba50d3a6f563690cee9146675bbcb61b3b",
+    "author": "richelbilderbeek <richel@richelbilderbeek.nl>",
+    "time": "2023-09-25 18:13:39",
+    "files": 1,
+    "merge": false,
+    "message": "Reorder deps\n"
+  },
+  "repo": "https://github.com/ropensci/mcbette",
+  "pkg": "mcbette"
+}
