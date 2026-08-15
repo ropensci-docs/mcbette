@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "03aaca85e07669d43efb801fb2a0d707da0a3ddf",
+    "author": "richelbilderbeek <rjcbilderbeek@gmail.com>",
+    "time": "2026-07-16T10:55:06Z",
+    "files": 1,
+    "merge": false,
+    "message": "Remove lintr in 'Suggests' field, progress https://github.com/r-lib/lintr/issues/3079\n"
+  },
+  "repo": "https://github.com/ropensci/mcbette",
+  "pkg": "mcbette",
+  "time": "2026-08-15T05:03:11Z"
+}
